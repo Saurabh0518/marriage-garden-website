@@ -1,0 +1,190 @@
+body{
+    background-image: url('aashirwaadprofilepic.jpeg');
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repaeat;
+}
+#firstdiv{
+    margin-top:0px;
+}
+@media screen and (min-width: 425px)
+{
+    #firstdiv{
+         ;
+    }
+}
+h2{
+    color:blueviolet;
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius:20px;
+    border:100px;
+    margin-top: 0px;
+}
+h2:hover{
+    color:white;
+    background-color: black;
+}
+
+p{
+    text-align: center;
+    font: inherit;
+    font-size:medium;
+    align-content: center;
+    padding-top: 50px;
+}
+
+#firstbutton{
+    border-radius: 20px;
+    color:white;
+    background-color: green;
+    cursor:pointer;
+    outline:none;
+    margin-top:1%;
+}
+#firstbutton:hover{
+    color:white;
+    background-color: blue;
+}
+#secondbutton{
+    border-radius: 20px;
+    color:white;
+    background-color: green;
+    cursor:pointer;
+    outline:none;
+    margin-left: 60px;
+}
+#secondbutton:hover{
+    color:white;
+    background-color: blue;
+}
+#thirdbutton{
+    border-radius: 20px;
+    color:white;
+    background-color: green;
+    cursor:pointer;
+    outline:none;
+    margin-left: 60px;
+}
+#thirdbutton:hover{
+    color:white;
+    background-color: blue;
+}
+#fourthbutton{
+    border-radius: 20px;
+    color:white;
+    background-color: green;
+    cursor:pointer;
+    outline:none;
+    margin-left: 60px;
+}
+#fourthbutton:hover{
+    color:white;
+    background-color:blue;
+}
+#fifthbutton{
+    border-radius: 20px;
+    color:white;
+    background-color: green;
+    cursor:pointer;
+    outline:none;
+    margin-left:60px;
+}
+#fifthbutton:hover{
+    color:white;
+    background-color:blue;
+}
+
+#seconddiv{
+    height:400px;
+    width:500px;
+}
+#contactdiv{
+    background-color:#D6E4E5;
+    align-self: center;
+    height:500px;
+    width:50%;
+    margin-left:380px;
+    margin-top:100px;
+    border-radius:20px;
+    align-items: center;
+    }
+#contactdiv:hover{
+    background-color:#6D9886;
+}
+#location{
+    background-color:#FCDDB0;
+    align-self: center;
+    height:200px;
+    width:50%;
+    margin-left:350px;
+    margin-top:200px;
+    border-radius:20px;
+    align-items: center;
+    text-align: center;
+    }
+#location:hover{
+    background-color:#6D9886;
+}
+#datesdiv{
+    background-color:#FCDDB0;
+    align-self: center;
+    height:500px;
+    width: 50%;
+    margin-left:380px;
+    margin-top:100px;
+    border-radius:20px;
+    align-items: center;
+}
+#zerocatering{
+    background-color:#7DE5ED;
+    align-self: center;
+    height:500px;
+    width:50%;
+    margin-left:380px;
+    margin-top:100px;
+    border-radius:20px;
+    align-items: center;
+    }     
+#firstcatering{
+    background-color:#00ABB3;
+    align-self: center;
+    height:500px;
+    width:50%;
+    margin-left:380px;
+    margin-top:100px;
+    border-radius:20px;
+    text-decoration: center;
+    }
+    #secondcatering{
+        background-color:#F0FF42;
+        align-self: center;
+        height:500px;
+        width:50%;
+        margin-left:380px;
+        margin-top:100px;
+        border-radius:20px;
+        align-items: center;
+        }    
+        #thirdcatering{
+            background-color:#E6CBA8;
+            align-self: center;
+            height:500px;
+            width:50%;
+            margin-left:380px;
+            margin-top:100px;
+            border-radius:20px;
+            align-items: center;
+            }     
+      @media screen and (min-width < 2560) {
+        #zerocatering{
+            background-color:#7DE5ED;
+            align-self: center;
+            height:500px;
+            width:50%;
+            margin-left:380px;
+            margin-top:100px;
+            border-radius:20px;
+            align-items: center;
+            }     
+      }
